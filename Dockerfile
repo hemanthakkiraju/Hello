@@ -3,4 +3,4 @@ From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "hemanth.akkiraju@gmail.com" 
-COPY ./webapp.war C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps
+COPY ./webapp.war /usr/local/tomcat/webapps
