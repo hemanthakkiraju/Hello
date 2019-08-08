@@ -1,11 +1,11 @@
 <html>
    <head>
-      <title>Using GET and POST Method to Read Form Data</title>
+      <title>Devops</title>
    </head>
    
    <body>
       <center>
-      <h1>Devops Demo</h1>
+      <h1>Devops Demo using Ansible</h1>
       
       <ul>
          <li><p><b>First Name:</b>
